@@ -1,6 +1,18 @@
 // Agrega o edita las publicaciones en este arreglo.
 // Cambia las rutas de ejemplo por tus imágenes y páginas o documentos.
 const products = [
+  {
+    id: "COPRISEH",
+    title: "Monitoreo de indicadores microbiológicos y fisicoquímicos",
+    description:
+      "Plataforma web que permite visualizar los indicadores microbiológicos y fisicoquímicos de las diversas muestras que realiza COPRISEH.",
+    category: "Plataforma web",
+    year: "2026",
+    image: "assets/images/COPRISEH.png",
+    imageAlt: "Imagen del proyecto de monitoreo de indicadores microbiológicos y fisicoquímicos",
+    coverColor: "#657d67",
+    productUrl: "https://sigehgo.github.io/Productos_Publicos/COPRISEH/"
+  },
     {
     id: "CJMH",
     title: "Atención a mujeres en situación de violencia de género - Centro de Justicia para las Mujeres del Estado de Hidalgo",
